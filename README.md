@@ -39,7 +39,7 @@ The client -
 There are a few steps -
 1. Clone into the project using git bush or terminal with this commend -
     ```
-    git clone https://github.com/Liri-Be/LinuxSignals.git
+    git clone https://github.com/klomucaj/LinuxSignals-Calculator.git
     ```
 2. Open the terminal in the code directory.
 3. Run those commands to create executable files from the C files - 
